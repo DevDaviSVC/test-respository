@@ -1,2 +1,2 @@
-# test-respository
- Repositório de teste para aprender Git e GitHub
+# Test repository
+ Repositório criado durante um curso de Git & Github
