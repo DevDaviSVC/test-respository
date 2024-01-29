@@ -1,5 +1,4 @@
-# Test repository
- Repositório criado durante um curso de Git & Github
+# Davi's test repository
+ **Repositório criado durante o curso de Git & Github**
 
- Adicionei essa linha pelo site do GitHub, such awesome!
- 
+ Adicionei essa linha pelo site do GitHub, *such awesome!*
